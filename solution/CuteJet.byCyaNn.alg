@@ -149,5 +149,5 @@ hero.say(font, "Allons y !");
 // -----------------------------------------------------------------------------
 // NE PAS MODIFIER LA PARTIE SUIVANTE DU CODE
 
-include("../includes/CuteJet.include3");
+include("../includes/CuteJet.include2");
 
